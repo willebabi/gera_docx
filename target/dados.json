@@ -1,0 +1,31 @@
+{
+    "nome_cliente": "Maria Silva",
+    "nome_projeto": "Desenvolvimento do Sistema X",
+    "tipo_projeto": "Software",
+    "data_inicio": "15/07/2025",
+    "valor_projeto": "15.000,00",
+    "nome_empresa": "Minha Empresa Inc.",
+    "itens_projeto_tabela": [
+        {
+            "item_descricao": "Análise de Requisitos",
+            "item_horas": "80",
+            "item_status": "Concluído"
+        },
+        {
+            "item_descricao": "Desenvolvimento Front-end",
+            "item_horas": "120",
+            "item_status": "Em Andamento"
+        },
+        {
+            "item_descricao": "Desenvolvimento Back-end",
+            "item_horas": "150",
+            "item_status": "Não Iniciado"
+        },
+        {
+            "item_descricao": "Testes e Homologação",
+            "item_horas": "70",
+            "item_status": "Não Iniciado"
+        }
+    ]
+}
+
