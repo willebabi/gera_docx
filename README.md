@@ -1,7 +1,3 @@
-Claro\! Gerar o README em Markdown é o formato ideal para o GitHub. Ele ficará legível e bem estruturado diretamente no repositório.
-
-Aqui está o README completo para o seu projeto Java, formatado em Markdown, pronto para ser copiado e colado em um arquivo `README.md` no GitHub:
-
 -----
 
 # Gerador de Documentos DOCX
